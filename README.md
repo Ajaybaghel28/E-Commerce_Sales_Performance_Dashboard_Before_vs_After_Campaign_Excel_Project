@@ -1,4 +1,4 @@
-# E-Commerce_Sales_Performance_Dashboard_Before_vs_After_Campaign
+# E-Commerce_Sales_Performance_Dashboard_Before_vs_After_Campaign_Excel_Project
 
 ## Project Overview
 This project involves an in-depth analysis of an e-commerce marketing campaign's impact on sales performance. By comparing data from before, during, and after the campaign, this dashboard provides insights into regional sales growth, product category trends, customer demographics, and ROI across different regions.
