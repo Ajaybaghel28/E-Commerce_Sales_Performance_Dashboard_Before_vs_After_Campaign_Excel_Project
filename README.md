@@ -10,14 +10,13 @@ To understand customer demographics (age and gender) across regions for campaign
 To assess the ROI of the marketing campaign by region.
 To present the overall impact of the marketing campaign on total sales.
 
-
-Data Sources
+# Data Sources
 This analysis was conducted using three primary data sources:
-
-Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
+## Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
 Marketing Campaign Data: Provides campaign budgets and other marketing metrics.
-Customer Data: Demographic information including age, gender, and region.
-Dashboard Components
+## Customer Data: Demographic information including age, gender, and region.
+
+# Dashboard Components
 1. Filters
 Campaign Period: Allows users to filter the dashboard to view data for "Before," "During," or "After" the marketing campaign periods.
 Gender: Filter to separate data by gender (Male, Female).
