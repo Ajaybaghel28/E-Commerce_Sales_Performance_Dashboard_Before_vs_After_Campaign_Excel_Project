@@ -4,17 +4,17 @@
 This dashboard project analyzes the impact of a marketing campaign on e-commerce sales performance, comparing data before, during, and after the campaign. It provides insights into regional sales growth, product category performance, customer demographics, and return on investment (ROI) across different regions.
 
 ## Objectives
-The primary goals of this project are:
+###The primary goals of this project are:
 To evaluate sales growth by region and product category before, during, and after the marketing campaign.
 To understand customer demographics (age and gender) across regions for campaign-period purchases.
 To assess the ROI of the marketing campaign by region.
 To present the overall impact of the marketing campaign on total sales.
 
-# Data Sources
+## Data Sources
 This analysis was conducted using three primary data sources:
- Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
+Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
 Marketing Campaign Data: Provides campaign budgets and other marketing metrics.
-## Customer Data: Demographic information including age, gender, and region.
+Customer Data: Demographic information including age, gender, and region.
 
 # Dashboard Components
 1. Filters
