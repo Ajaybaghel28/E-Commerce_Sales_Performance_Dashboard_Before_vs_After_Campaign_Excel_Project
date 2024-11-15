@@ -34,9 +34,9 @@ Observed that certain age groups were more responsive to the campaign.
 Found that the data was sufficiently detailed to support targeted analysis in the dashboard.
 
 ## Data Sources
--Sales Transactions: Contains information on transactions before, during, and after the campaign.
--Marketing Campaign Data: Provides budget and marketing metrics for each region.
--Customer Data: Includes customer demographics like age, gender, and region.
+- Sales Transactions: Contains information on transactions before, during, and after the campaign.
+- Marketing Campaign Data: Provides budget and marketing metrics for each region.
+- Customer Data: Includes customer demographics like age, gender, and region.
 
 Dashboard Components
 1. Filters
