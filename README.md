@@ -1,5 +1,6 @@
 # E-Commerce_Sales_Performance_Dashboard_Before_vs_After_Campaign
 
+E-Commerce Sales Performance Dashboard: Before vs. After Campaign
 Project Overview
 This dashboard project analyzes the impact of a marketing campaign on e-commerce sales performance, comparing data before, during, and after the campaign. It provides insights into regional sales growth, product category performance, customer demographics, and return on investment (ROI) across different regions.
 
@@ -45,6 +46,7 @@ Return on Investment (ROI): The South region yielded the highest ROI, while the 
 Total Sales Impact: The marketing campaign contributed to a 57% share of total sales in the post-campaign period, illustrating a positive effect on overall revenue.
 Conclusion
 This dashboard provides a comprehensive view of the marketing campaign's effectiveness in driving e-commerce sales. By analyzing sales growth, demographic engagement, and ROI, stakeholders can make informed decisions on campaign strategies and resource allocation for future campaigns.
+
 Future Improvements
 Additional Metrics: Include metrics like Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV).
 Dynamic Date Filters: Enable more flexible date-based filtering.
