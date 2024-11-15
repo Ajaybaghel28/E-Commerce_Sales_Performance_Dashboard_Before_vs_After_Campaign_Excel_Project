@@ -12,7 +12,7 @@ To present the overall impact of the marketing campaign on total sales.
 
 # Data Sources
 This analysis was conducted using three primary data sources:
-## Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
+ Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
 Marketing Campaign Data: Provides campaign budgets and other marketing metrics.
 ## Customer Data: Demographic information including age, gender, and region.
 
