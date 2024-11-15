@@ -1,60 +1,74 @@
 # E-Commerce_Sales_Performance_Dashboard_Before_vs_After_Campaign
 
 ## Project Overview
-This dashboard project analyzes the impact of a marketing campaign on e-commerce sales performance, comparing data before, during, and after the campaign. It provides insights into regional sales growth, product category performance, customer demographics, and return on investment (ROI) across different regions.
+This project involves an in-depth analysis of an e-commerce marketing campaign's impact on sales performance. By comparing data from before, during, and after the campaign, this dashboard provides insights into regional sales growth, product category trends, customer demographics, and ROI across different regions.
 
 ## Objectives
-The primary goals of this project are:
-To evaluate sales growth by region and product category before, during, and after the marketing campaign.
-To understand customer demographics (age and gender) across regions for campaign-period purchases.
-To assess the ROI of the marketing campaign by region.
-To present the overall impact of the marketing campaign on total sales.
+The main objectives of this project are:
+To assess sales growth by region and product category for different campaign periods.
+To analyze customer demographics (age and gender) across regions during the campaign period.
+To measure the ROI of the marketing campaign by region.
+To visualize the overall impact of the campaign on total sales.
+
+## Exploratory Data Analysis (EDA)
+Prior to building the dashboard, an EDA was conducted to gain insights into the data and identify any data cleaning needs.
+
+### Data Cleaning:
+Checked for missing values and handled them appropriately.
+Standardized categorical values (e.g., region names and campaign periods) for consistency.
+Filtered out irrelevant data points and removed duplicate entries.
+
+### Data Profiling:
+Sales Transactions: Analyzed the distribution of transaction dates, regions, and sales amounts.
+Marketing Campaign Data: Evaluated budget allocations across regions to understand the campaign’s financial distribution.
+Customer Demographics: Examined age and gender distribution to understand the target customer base.
+
+### Data Transformation:
+Aggregated sales data to create summary tables by region, product category, and campaign period.
+Created calculated fields such as ROI and Sales Growth Rate for insightful analysis.
+Joined sales, marketing, and customer data for a unified dataset used in the dashboard.
+
+### Insights from EDA:
+Identified high-performing regions and product categories.
+Observed that certain age groups were more responsive to the campaign.
+Found that the data was sufficiently detailed to support targeted analysis in the dashboard.
 
 ## Data Sources
-This analysis was conducted using three primary data sources:
-Sales Transactions: Contains information on sales transactions before, during, and after the campaign.
-Marketing Campaign Data: Provides campaign budgets and other marketing metrics.
-Customer Data: Demographic information including age, gender, and region.
+#### Sales Transactions: Contains information on transactions before, during, and after the campaign.
+#### Marketing Campaign Data: Provides budget and marketing metrics for each region.
+#### Customer Data: Includes customer demographics like age, gender, and region.
 
-## Dashboard Components
-### 1. Filters
-Campaign Period: Allows users to filter the dashboard to view data for "Before," "During," or "After" the marketing campaign periods.
-Gender: Filter to separate data by gender (Male, Female).
-Region: Filter to focus on specific regions (East, North, South, West).
-
-### 2. Visualizations
-#### Sales Growth by Region After Marketing Campaign
-A clustered bar chart comparing sales growth across regions (East, North, South, and West) for different campaign periods.
-Highlights how sales have changed over time with the introduction of the marketing campaign.
-
+Dashboard Components
+1. Filters
+Campaign Period: Filter data by "Before," "During," or "After" the campaign period.
+Gender: Separate data by gender (Male, Female).
+Region: Focus on specific regions (East, North, South, West).
+2. Visualizations
+Sales Growth by Region After Marketing Campaign
+Bar chart showing sales growth in each region (East, North, South, West) for each campaign period.
+Highlights regional performance improvements post-campaign.
 Sales Growth by Product Category After Marketing Campaign
-A clustered bar chart showing sales trends for each product category (Clothing, Electronics, Furniture, Home Appliances) during each campaign period.
-Allows for comparison of product performance and the campaign's impact on each category.
-
+Bar chart displaying product category performance (Clothing, Electronics, Furniture, Home Appliances) across campaign periods.
+Allows comparison of sales growth by product type.
 Age and Gender Distribution of Campaign-Period Purchases by Region
-A stacked bar chart displaying the distribution of customers by age group (18-24, 25-34, 35-44, 45+) and gender across different regions.
-Useful for demographic analysis of the campaign’s reach and impact.
-
+Stacked bar chart showing customer distribution by age group (18-24, 25-34, 35-44, 45+) and gender for each region.
+Provides insights into which demographics engaged most with the campaign.
 Return on Investment (ROI) per Region
-A line chart illustrating the ROI of the marketing campaign by region.
-Allows comparison of campaign effectiveness across different regions, helping to identify areas with the highest returns.
-
+Line chart illustrating ROI across regions.
+Highlights the regions with the highest and lowest returns from the campaign.
 Sales Impact Analysis: Total Sales Before and After Marketing Campaign
-A donut chart that visually compares total sales before and after the campaign.
-Clearly shows the overall impact of the campaign on total sales volume, with numerical values and percentage distribution.
+Donut chart showing total sales before and after the campaign.
+Visualizes the overall impact of the campaign on total sales, with values and percentages.
+Insights
+Regional Sales Growth: Significant sales increases in the South and West regions post-campaign.
+Product Category Performance: Home Appliances and Electronics saw the largest gains, indicating successful targeting.
+Demographic Engagement: High engagement from the 25-34 and 35-44 age groups across regions.
+ROI Comparison: Highest ROI in the South, suggesting optimal campaign effectiveness there.
+Total Sales Impact: The campaign contributed to a 57% share of total sales post-campaign.
+Conclusion
+This dashboard provides valuable insights into the marketing campaign's effectiveness in driving e-commerce sales. It enables stakeholders to assess campaign impact by region, product, and demographics, informing future campaign strategies.
 
-### Insights
-
-Regional Sales Growth: Some regions showed a significant increase in sales after the campaign, with the South and West regions seeing the highest growth.
-Product Category Performance: Home Appliances and Electronics categories experienced the largest sales increases, indicating a successful campaign impact on these segments.
-Demographic Reach: The campaign was effective across age groups, with notable engagement from the 25-34 and 35-44 age segments.
-Return on Investment (ROI): The South region yielded the highest ROI, while the West region had a comparatively low ROI, indicating potential areas for campaign optimization.
-Total Sales Impact: The marketing campaign contributed to a 57% share of total sales in the post-campaign period, illustrating a positive effect on overall revenue.
-
-### Conclusion
-This dashboard provides a comprehensive view of the marketing campaign's effectiveness in driving e-commerce sales. By analyzing sales growth, demographic engagement, and ROI, stakeholders can make informed decisions on campaign strategies and resource allocation for future campaigns.
-
-### Future Improvements
+Future Improvements
 Additional Metrics: Include metrics like Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV).
 Dynamic Date Filters: Enable more flexible date-based filtering.
 Subcategory Analysis: Refine product analysis by examining subcategories for deeper insights.
