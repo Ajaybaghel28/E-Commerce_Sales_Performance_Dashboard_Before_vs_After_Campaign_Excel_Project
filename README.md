@@ -1,7 +1,7 @@
 # E-Commerce_Sales_Performance_Dashboard_Before_vs_After_Campaign_Excel_Project
 
 ## Project Overview
-This project focuses on a comprehensive analysis of an e-commerce marketing campaign and its impact on sales performance. By examining data from the months of August, September, October (the campaign month), November, and December, the analysis provides:
+This project focuses on a comprehensive analysis of an e-commerce marketing campaign and its impact on sales performance. By examining data from the months of August, September, October (the campaign month), November, and December.
 
 ## Objectives
 The main objectives of this project are:
