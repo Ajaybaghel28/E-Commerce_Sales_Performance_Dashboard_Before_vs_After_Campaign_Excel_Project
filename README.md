@@ -3,11 +3,6 @@
 ## Project Overview
 This project focuses on a comprehensive analysis of an e-commerce marketing campaign and its impact on sales performance. By examining data from the months of August, September, October (the campaign month), November, and December, the analysis provides:
 
-- Regional Sales Growth: Insights into how sales evolved across different regions.
-- Product Category Trends: Identification of top-performing and underperforming product categories before, during, and after the campaign.
-- Customer Demographics: Breakdown of customer behavior and purchasing patterns by age, income group, and other demographics.
-- Return on Investment (ROI): Evaluation of the campaign's financial effectiveness across regions.
-
 ## Objectives
 The main objectives of this project are:
 - To assess sales growth by region and product category for different campaign periods.
